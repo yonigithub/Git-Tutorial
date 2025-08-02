@@ -1,1 +1,2 @@
 file one
+This is added to the file
